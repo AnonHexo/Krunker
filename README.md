@@ -14,6 +14,14 @@ ___________________________________________
 | AimBot | ❌ | ❌ | ❌ |
 | Detected (Patched) | ⚙️ | ✅ | ✅ |
 
+___________________________________________
+
+### TamperMonkey User Script
+_Script Avaiable <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js>here</a>"_
+                    
+##### How to install:
+___________________________________________
+
 ##### Disable FPS Limit on Browser
 
 ᴄᴏᴘʏ ᴀɴᴅ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ɪɴ ɴᴇᴡ ᴛᴇxᴛ ꜰɪʟᴇ. ꜱᴀᴠᴇ ᴛʜᴇ ᴛᴇxᴛ ꜰɪʟᴇ ᴀꜱ [ɴᴀᴍᴇ ʏᴏᴜ ᴡᴀɴᴛ].ʙᴀᴛ ᴏᴘᴇɴ ʙᴀᴛ ᴀɴᴅ ʏᴏᴜʀ ᴅᴏɴᴇ
