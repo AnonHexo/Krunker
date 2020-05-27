@@ -17,7 +17,7 @@ ___________________________________________
 ___________________________________________
 
 ### TamperMonkey User Script
-_Script Avaiable <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js>here</a>"_
+_Script Avaiable_ <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js">here</a>
                     
 ##### How to install:
 ___________________________________________
