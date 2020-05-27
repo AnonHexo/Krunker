@@ -1,7 +1,17 @@
 ___________________________________________
+
 ➤Join Discord Server:
 https://invite.gg/alphyx
+
 ___________________________________________
+
+| X | Script | Extension | Client |
+| Avaiable | ✅ | ✅ | ❌ |
+| Updated | ✅ | ❌ | ❌ |
+| ESP | ❌ | ❌ | ❌ |
+| NameTags | ✅ | ❌ | ❌ |
+| AimBot | ❌ | ❌ | ❌ |
+| Detected (Patched) | ⚙️ | ✅ | ✅ |
 
 ##### Disable FPS Limit on Browser
 
@@ -21,5 +31,3 @@ start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 ```
 [ᴅᴏᴡɴʟᴏᴀᴅ bat here (click here)](https://github.com/AnonHexo/private-script/brave-krunker-fps.bat)
 _________________________________________________________________________
-
-![banner](https://i.ytimg.com/vi/EeT1NprHnKg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAA4cs296RpyJ-Q2km2UtEVARFNNA)
