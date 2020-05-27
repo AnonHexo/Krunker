@@ -19,7 +19,7 @@ ___________________________________________
 ### TamperMonkey User Script
 _Script Avaiable_ <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js">here</a>
                     
-##### How to install:
+#### How to install:
 ___________________________________________
 
 ##### Disable FPS Limit on Browser
