@@ -6,6 +6,7 @@ https://invite.gg/alphyx
 ___________________________________________
 
 | X | Script | Extension | Client |
+| --- | --- | --- | --- |
 | Avaiable | ✅ | ✅ | ❌ |
 | Updated | ✅ | ❌ | ❌ |
 | ESP | ❌ | ❌ | ❌ |
