@@ -17,12 +17,16 @@ ___________________________________________
 ___________________________________________
 
 #### TamperMonkey User Script
-_Script Avaiable_ <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js">here</a>
+_Script Avaiable_ <a href="https://github.com/AnonHexo/Krunker/nametags.user.js">here</a>
                     
 ###### How to install:
 
-[1] Download and Install any JavaScript injector extension. (Tampermonkey/Violentmonkey)
-[2] Click <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js">here</a> and then click on "Install".
+[1] Download and Install any JavaScript injector extension. (Tampermonkey/Violentmonkey) <br>
+[2] Click <a href="https://raw.githubusercontent.com/AnonHexo/Krunker/nametags.user.js">here</a> and then click on "Install". <br>
+[3] Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script. <br>
+**How To Check if The Script Loads Correctly**
+![loadedimg.png](img\loadedimg.png)
+
 ___________________________________________
 
 ###### Disable FPS Limit on Browser
