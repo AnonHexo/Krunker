@@ -1,7 +1,7 @@
 ___________________________________________
 
 ➤Join Discord Server:
-https://invite.gg/alphyx
+https://discord.gg/kvgHTnV
 
 ___________________________________________
 
