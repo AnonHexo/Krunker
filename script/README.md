@@ -1,2 +1,2 @@
 ## UserScript
-**Don't Know <a href"https://github.com/AnonHexo/Krunker#-script-how-to-install"> **How to Install The Script?** </a>
+**Don't Know How to Install The Script? <a href"https://github.com/AnonHexo/Krunker#-script-how-to-install"> Check this Link! </a>
