@@ -19,17 +19,15 @@ ___________________________________________
 
 ###### Disable FPS Limit on Browser
 
-ᴄᴏᴘʏ ᴀɴᴅ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ɪɴ ɴᴇᴡ ᴛᴇxᴛ ꜰɪʟᴇ. ꜱᴀᴠᴇ ᴛʜᴇ ᴛᴇxᴛ ꜰɪʟᴇ ᴀꜱ [ɴᴀᴍᴇ ʏᴏᴜ ᴡᴀɴᴛ].ʙᴀᴛ ᴏᴘᴇɴ ʙᴀᴛ ᴀɴᴅ ʏᴏᴜʀ ᴅᴏɴᴇ
-
 (Chrome)
 ```diff
-taskkill /IM "chrome.exe" /F
+// right click chrome in the taskbar, right click it again, click proprieties and add this code out of the quotations mark (")
 start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
 
 (Brave)
 ```diff
-taskkill /IM "brave.exe" /F
+// right click brave in the taskbar, right click it again, click proprieties and add this code out of the quotations mark (")
 start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
 _________________________________________________________________________
