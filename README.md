@@ -8,7 +8,7 @@
 | AimBot | ❌ | ❌ | ❌ |
 | Detected (Patched) | ✅ | ✅ | ✅ | -->
 
-###### Browser Extension: _Extension Avaiable_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a>
+###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a>
 
 ## 📥 [extension] How to Install:
 
@@ -20,7 +20,7 @@
 - **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉.** <br>
 ___________________________________________
 
-###### TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a>
+###### TamperMonkey: _Script Avaiable for the view_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a>
 
 ## 📥 [script] How to Install:
 
