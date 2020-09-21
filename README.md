@@ -12,9 +12,9 @@
 
 ## 📥 How to Install:
 
-[1] **Download and Install any JavaScript injector extension. (Tampermonkey/Violentmonkey) <br>
-[2] Click <a href="https://github.com/AnonHexo/Krunker/raw/master/nametags.user.js">here</a> and then click on "Install". <br>
-[3] Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script. <br
+[1] **Download and Install any JavaScript injector extension. (Tampermonkey/Violentmonkey)** <br>
+[2] **Click <a href="https://github.com/AnonHexo/Krunker/raw/master/nametags.user.js">here</a> and then click on "Install".** <br>
+[3] **Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script.** <br>
 ___________________________________________
 
 ## 🔓 Disable FPS Limit on Browser
