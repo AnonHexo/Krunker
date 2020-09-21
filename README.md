@@ -13,6 +13,8 @@
 <img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/Krunker?color=45d111&label=last%20hack%20update%3A&style=for-the-badge"></img>
 </p>
 
+___
+
 ###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a>
 
 ## 📥 [extension] How to Install:
