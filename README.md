@@ -3,7 +3,7 @@
 <img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/Krunker?color=45d111&label=last%20hack%20update%3A&style=for-the-badge"></img>
 </p>
 <p align="center">
- <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
+<!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img> -->
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
 </p>
 
