@@ -20,7 +20,7 @@
 - **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉.** <br>
 ___________________________________________
 
-###### TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/script/script.user.js">here</a>
+###### TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a>
 
 ## 📥 [script] How to Install:
 
