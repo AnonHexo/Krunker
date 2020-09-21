@@ -8,9 +8,9 @@
 | AimBot | ❌ | ❌ | ❌ |
 | Detected (Patched) | ✅ | ✅ | ✅ | -->
 
-#### TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/nametags.user.js">here</a>
+## TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/nametags.user.js">here</a>
 
-##### How to install:
+## 📥 How to Install:
 
 [1] Download and Install any JavaScript injector extension. (Tampermonkey/Violentmonkey) <br>
 [2] Click <a href="https://github.com/AnonHexo/Krunker/raw/master/nametags.user.js">here</a> and then click on "Install". <br>
