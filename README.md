@@ -8,8 +8,7 @@
 | AimBot | ❌ | ❌ | ❌ |
 | Detected (Patched) | ✅ | ✅ | ✅ | -->
 
-#### TamperMonkey User Script
-_Script Avaiable_ <a href="https://github.com/AnonHexo/Krunker/nametags.user.js">here</a>
+#### TamperMonkey: _Script Avaiable_  <a href="https://github.com/AnonHexo/Krunker/nametags.user.js">here</a>
 
 ###### How to install:
 
