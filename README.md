@@ -4,7 +4,6 @@
 </p>
 
 ---
-<p align="center">
 |   | Script | Extension | Client |
 | --- | --- | --- | --- |
 | Avaiable | ❌ | ❌ | ❌ |
@@ -13,7 +12,6 @@
 | NameTags | ❌ | ❌ | ❌ |
 | AimBot | ❌ | ❌ | ❌ |
 | Detected (Patched) | ✅ | ✅ | ✅ |
-</p>
 
 ___
 
