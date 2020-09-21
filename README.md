@@ -1,3 +1,4 @@
+# ALL THE KRUNKER CHEATS HAVE BEEN PATCHED, NO MORE UPDTES! 
 ___________________________________________
 
 ➤Join Discord Server:
@@ -7,12 +8,12 @@ ___________________________________________
 
 | X | Script | Extension | Client |
 | --- | --- | --- | --- |
-| Avaiable | ✅ | ✅ | ❌ |
-| Updated | ✅ | ❌ | ❌ |
+| Avaiable | ❌ | ❌ | ❌ |
+| Updated | ❌ | ❌ | ❌ |
 | ESP | ❌ | ❌ | ❌ |
-| NameTags | ✅ | ❌ | ❌ |
+| NameTags | ❌ | ❌ | ❌ |
 | AimBot | ❌ | ❌ | ❌ |
-| Detected (Patched) | ⚙️ | ✅ | ✅ |
+| Detected (Patched) | ✅ | ✅ | ✅ |
 
 ___________________________________________
 
@@ -25,7 +26,6 @@ _Script Avaiable_ <a href="https://github.com/AnonHexo/Krunker/nametags.user.js"
 [2] Click <a href="https://github.com/AnonHexo/Krunker/raw/master/nametags.user.js">here</a> and then click on "Install". <br>
 [3] Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script. <br>
 **How To Check if The Script Loads Correctly** <br>
-![loadedimg.png](img\loadedimg.png)
 
 ___________________________________________
 
@@ -38,12 +38,10 @@ ___________________________________________
 taskkill /IM "chrome.exe" /F
 start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
-[ᴅᴏᴡɴʟᴏᴀᴅ bat here (click here)](https://github.com/AnonHexo/private-script/chrome-krunker-fps.bat)
 
 (Brave)
 ```diff
 taskkill /IM "brave.exe" /F
 start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
-[ᴅᴏᴡɴʟᴏᴀᴅ bat here (click here)](https://github.com/AnonHexo/private-script/brave-krunker-fps.bat)
 _________________________________________________________________________
