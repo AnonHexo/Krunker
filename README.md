@@ -17,7 +17,7 @@
 [3] Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script. <br
 ___________________________________________
 
-###### Disable FPS Limit on Browser
+## 🔓 Disable FPS Limit on Browser
 
 **(Chrome)**
 ```diff
@@ -33,7 +33,7 @@ start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 _________________________________________________________________________
 
 
-➤Join Discord Server:
+➤ **Join Discord Server: (pls)**
 https://discord.gg/kvgHTnV
 
 ___________________________________________
