@@ -24,7 +24,7 @@ ___________________________________________
 
 ## 📥 [script] How to Install:
 
-- **Install any usescript manager extension. (<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en"> Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en">Violentmonkey) **<br>
+- **Install any usescript manager extension. (<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en"> Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en">Violentmonkey</a>) **<br>
 - **Click <a href="https://github.com/AnonHexo/Krunker/raw/master/script/script.user.js">here</a> and then click on "Install".** <br>
 - **Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script 😉.** <br>
 ___________________________________________
