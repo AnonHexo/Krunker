@@ -6,7 +6,6 @@
 <!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img> -->
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
 </p>
-_________________________________________________________________________
 
 <a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
 
@@ -60,4 +59,4 @@ start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 ```diff
 // right click brave in the taskbar, right click it again, click proprieties and add this code out of the quotations mark (")
 start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
-``
+```
