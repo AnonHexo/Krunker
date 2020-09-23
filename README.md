@@ -37,7 +37,7 @@ ___________________________________________
 
 - **Download the extension files from <a href="https://github.com/AnonHexo/krunker-extension/archive/master.zip">this link</a>**
 - **Extract the zip file with any software**
-- **Go on your extension page of your browser (usually <a href="chrome://extension">this</a> )** <br>
+- **Go on your extension page of your browser (usually chrome://extension)** <br>
 - **Turn on developer mode (in the top right)** <br>
 - **Now click on "Upload Unpacked extension" and select the folder that you extracted before**
 - **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉.** <br>
