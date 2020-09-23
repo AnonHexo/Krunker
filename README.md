@@ -7,6 +7,8 @@
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
 </p> -->
 
+<div align="center">
+
 ___________________________________________
 
 ➤ **Join Discord Server: (pls)**
@@ -15,7 +17,7 @@ https://discord.gg/kvgHTnV
 ___________________________________________
 
 |   | Script | Extension | Client |
-| :-- | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: |
 | Avaiable | ❌ | ❌ | ❌ |
 | Updated | ❌ | ❌ | ❌ |
 | ESP | ❌ | ❌ | ❌ |
@@ -65,3 +67,4 @@ start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 ```
 ---
 <a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
+</div>
