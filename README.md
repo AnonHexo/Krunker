@@ -25,6 +25,8 @@ ___
 
 ###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a>
 
+<img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
+
 ## 📥 [extension] How to Install:
 
 - **Download the extension files from <a href="https://github.com/AnonHexo/krunker-extension/archive/master.zip">this link</a>**
@@ -36,6 +38,8 @@ ___
 ___________________________________________
 
 ###### TamperMonkey: _Script Avaiable for the view_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a>
+
+<img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
 
 ## 📥 [script] How to Install:
 
