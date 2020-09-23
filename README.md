@@ -7,14 +7,11 @@
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
 </p>
 
-<a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
-
 ➤ **Join Discord Server: (pls)**
-https://discord.gg/kvgHTnV
+https://discord.gg/kvgHTnV <a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
 
 ___________________________________________
 
----
 |   | Script | Extension | Client |
 | --- | --- | --- | --- |
 | Avaiable | ❌ | ❌ | ❌ |
