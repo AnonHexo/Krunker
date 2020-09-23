@@ -15,7 +15,7 @@ https://discord.gg/kvgHTnV
 ___________________________________________
 
 |   | Script | Extension | Client |
-| :-: | :-: | :-: | :-: |
+| --: | :-: | :-: | :-: |
 | Avaiable | ❌ | ❌ | ❌ |
 | Updated | ❌ | ❌ | ❌ |
 | ESP | ❌ | ❌ | ❌ |
