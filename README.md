@@ -27,6 +27,8 @@ ___________________________________________
 
 ___________________________________________
 
+</div>
+
 ###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a>
 
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
@@ -51,6 +53,8 @@ ___________________________________________
 - **Click <a href="https://github.com/AnonHexo/Krunker/raw/master/script/script.user.js">here</a> and then click on "Install".** <br>
 - **Then go on krunker.io and make sure that the script load correctly; then enter in a game and enjoy the script 😉.** <br>
 ___________________________________________
+
+<div align="center">
 
 ## 🔓 Disable FPS Limit on Browser
 
