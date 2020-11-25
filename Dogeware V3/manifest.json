@@ -1,0 +1,42 @@
+{
+  "name": "Krunker Dogeware V3",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "homepage_url": "https://anonhexo.github.io/skidlamer",
+  "description": "The best helping hand for krunker.",
+  "icons": {
+    "16": "main/icons/icon16.png",
+    "48": "main/icons/icon48.png",
+    "128": "main/icons/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "main/icons/icon19.png",
+    "default_title": "Krunker Dogeware V3"
+  },
+  "permissions": [
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "*://krunker.io/*",
+    "*://matchmaker.krunker.io/*",
+    "*://linkvertise.com/*",
+    "*://api.countapi.xyz/*",
+    "*://dogeware.cheems.art/*"
+  ],
+  "web_accessible_resources": [
+    "*.js",
+    "*.css",
+    "*.obj",
+    "*.png",
+    "*.mp3",
+    "*.ttf",
+    "*.txt",
+    "*.html",
+    "*.json"
+  ],
+  "background": {
+    "scripts": [
+      "main/main.js"
+    ]
+  }
+}
