@@ -1,23 +1,23 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" alt="website-status" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=krunker%20status%3A&style=for-the-badge&up_color=45d111&up_message=online&url=https%3A%2F%2Fkrunker.io"></img>
 <img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/Krunker?color=45d111&label=last%20hack%20update%3A&style=for-the-badge"></img>
 </p>
 <p align="center">
-<img align="center" alt="working-status" src="https://img.shields.io/badge/-cheats%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
+<!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-cheats%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img> -->
 <!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img> -->
 </p>
 
 <p align="center">
 
-<!-- ___________________________________________
+<!-- ___________________________________________ -->
 
 <!-- ➤ **Join Discord Server: (pls)**
 https://discord.gg/kvgHTnV -->
 
-___________________________________________
+<!-- ___________________________________________ -->
 
 <!-- |   | Script | Extension | Client |
 | :-: | :-: | :-: | :-: |
@@ -35,7 +35,7 @@ ___________________________________________
 <!-- ###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a> -->
 
 <!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-cheats%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img> -->
-<img align="center" alt="working-status" src="https://img.shields.io/badge/-%20cheat%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
+<img align="center" alt="working-status" src="https://img.shields.io/badge/-extension%20cheat%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
 
 ## 📥 [extension] How to Install:
 
@@ -45,7 +45,7 @@ ___________________________________________
 - **Turn on developer mode (in the top right)** <br>
 - **Now click on "Upload Unpacked extension" and select the folder that you extracted before**
 - **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉.** <br>
-___________________________________________
+<!-- ___________________________________________ -->
 
 <!-- ###### TamperMonkey: _Script Avaiable for the view_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a> -->
 
