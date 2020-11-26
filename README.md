@@ -32,9 +32,9 @@ ___________________________________________
 <!-- ###### Browser Extension: _Extension Avaiable for the view_ <a href="https://github.com/AnonHexo/Krunker/tree/master/extension">here</a> -->
 
 <!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-cheats%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img> -->
-<img align="center" alt="working-status" src="https://img.shields.io/badge/-extension%20cheat%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
+<img align="center" alt="working-status" src="https://img.shields.io/badge/-dogeware%20v3%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
 
-## 📥 [extension] How to Install:
+## 📥 [extension] Dogeware V3 How to Install:
 
 - **Download the extension files from <a href="https://www.mediafire.com/file/kqt8rqnlw08wylp/Dogeware_V3.rar/file">this link</a>**
 - **Extract the zip file with any software**
@@ -42,6 +42,7 @@ ___________________________________________
 - **Turn on developer mode (in the top right)** <br>
 - **Now click on "Upload Unpacked extension" and select the folder that you extracted before**
 - **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉.** <br>
+- full credits to skidlamer
 <!-- ___________________________________________ -->
 
 <!-- ###### TamperMonkey: _Script Avaiable for the view_  <a href="https://github.com/AnonHexo/Krunker/tree/master/script">here</a> -->
