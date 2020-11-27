@@ -45,7 +45,7 @@ ___________________________________________
 - **Go on your extension page of your browser (usually chrome://extension)** <br>
 - **Turn on developer mode (in the top right)** <br>
 - **Now click on "Upload Unpacked extension" and select the folder that you extracted before**
-- **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉. (remember to use chats only in privates matches)** <br>
+- **Then go on krunker.io and make sure that the extension is loaded correctly; then enter in any game and enjoy the hacks 😉. <br> (remember to use cheats only in privates matches)** <br>
 - full credits to skidlamer
 <!-- ___________________________________________ -->
 
