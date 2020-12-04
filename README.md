@@ -40,7 +40,7 @@ ___________________________________________
 
 ## 📥 [extension] Dogeware V3 How to Install:
 
-- **Download the extension files from <a href="https://www.mediafire.com/file/kqt8rqnlw08wylp/Dogeware_V3.rar/file">this link</a>**
+- **Download the latest extension files from <a href="https://dogeware.cheems.art/dogeware.zip">this link</a>**
 - **Extract the zip file with any software**
 - **Go on your extension page of your browser (usually chrome://extension)** <br>
 - **Turn on developer mode (in the top right)** <br>
