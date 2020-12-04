@@ -27,7 +27,7 @@ https://discord.gg/kvgHTnV -->
 
 ___________________________________________
 
-<h1> PLEASE DON'T use cheats in public matches, <br> use it ONLY FOR HvH (Hacker vs Hacker)</h1>
+<h2> PLEASE DON'T use cheats in public matches, <br> use it ONLY FOR HvH (Hacker vs Hacker)</h2>
 
 ___________________________________________
 
@@ -38,7 +38,7 @@ ___________________________________________
 <!-- <img align="center" alt="working-status" src="https://img.shields.io/badge/-cheats%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img> -->
 <img align="center" alt="working-status" src="https://img.shields.io/badge/-dogeware%20v3%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
 
-## 📥 [extension] Dogeware V3 How to Install:
+## 📥 [extension] Dogeware - How to Install:
 
 - **Download the latest extension files from <a href="https://dogeware.cheems.art/dogeware.zip">this link</a>**
 - **Extract the zip file with any software**
