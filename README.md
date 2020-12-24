@@ -1,4 +1,4 @@
-# ***not available, don't cheat pls***
+# ***Krunker Hacks Not Available***
 
 <!-- <p align="center">
 <img align="center" alt="website-status" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=krunker%20status%3A&style=for-the-badge&up_color=45d111&up_message=online&url=https%3A%2F%2Fkrunker.io"></img>
