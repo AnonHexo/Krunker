@@ -22,7 +22,7 @@ https://discord.gg/kvgHTnV <br> <br>
 
 ___________________________________________
 
-## 📥 [scripts] not tested:
+## 📥 [scripts] working userscripts:
 
 - [Krunker Nasa Peak](https://github.com/AnonHexo/Krunker/raw/master/js/nasa_peak.user.js) ~ Lemons
 - [Client Side Skin Hack](https://github.com/AnonHexo/Krunker/raw/master/js/skin_hack.user.js) ~ Skidlamer 
