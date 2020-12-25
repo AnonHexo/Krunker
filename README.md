@@ -8,7 +8,8 @@
 <p align="center">
 
 ➤ **Join Discord Server: (pls)**
-https://discord.gg/kvgHTnV
+https://discord.gg/kvgHTnV <br> <br>
+<a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
 
 <!-- |   | Script | Extension | Client |
 | :-: | :-: | :-: | :-: |
@@ -50,17 +51,8 @@ ___________________________________________
 
 ## 🔓 Disable FPS Limit on Browser
 
-**(Chrome)**
 ```diff
-// right click chrome, go in proprieties and add this code out of the quotations mark (")
+// right click your browser, go in proprieties and add this code out of the quotations mark (")
 --use-angle=d3d9 --enable-webgl2-compute-context --renderer-process-limit=100 --max-active-webgl-contexts=100 --disable-frame-rate-limit
 ```
-
-**(Brave)**
-```diff
-// right click brave, go on proprieties and add this code out of the quotations mark (")
---use-angle=d3d9 --enable-webgl2-compute-context --renderer-process-limit=100 --max-active-webgl-contexts=100 --disable-frame-rate-limit
-```
----
-<a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
 </div>
