@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Krunker SkidFest
+// @name Krunker KrunkerHex
 // @author SkidLamer - The Gaming Gurus
 // @match *.krunker.io/*
 // @exclude *krunker.io/social*
@@ -500,7 +500,7 @@ class Utilities {
                 const menu = window.windows[11];
                 menu.header = "Settings";
                 menu.gen = _ => {
-                    var tmpHTML = `<div style='text-align:center'> <a onclick='window.open("https://skidlamer.github.io/")' class='menuLink'>SkidFest Settings</center></a> <hr> </div>`;
+                    var tmpHTML = `<div style='text-align:center'> <a onclick='window.open("https://github.com/AnonHexo/Krunker")' class='menuLink'>KrunkerHex Settings</center></a> <hr> </div>`;
                     for (const key in this.settings) {
                         if (this.settings[key].pre) tmpHTML += this.settings[key].pre;
                         tmpHTML += "<div class='settName' id='" + key + "_div' style='display:" + (this.settings[key].hide ? 'none' : 'block') + "'>" + this.settings[key].name +
