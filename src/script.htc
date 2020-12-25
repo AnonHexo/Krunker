@@ -1,6 +1,0 @@
-<public:attach event="onload" for="window" onevent="test()" />
-<script language="javascript">
-	function test() {
-		alert(1);
-	}
-</script>
